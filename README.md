@@ -36,7 +36,6 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
             - Regular customer feedback is incorporated into every sprint. 
             - Testing is continuous and done after each iteration.
 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 
