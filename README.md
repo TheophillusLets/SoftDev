@@ -8,7 +8,7 @@ Part 1: Introduction to Software Engineering
       It plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
   
 
-2.Identify and describe at least three key milestones in the evolution of software engineering.  
+2.Identify and describe at least three key milestones in the evolution of software engineering.   
 
       Mastering process
       Mastering communications
