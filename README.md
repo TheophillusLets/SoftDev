@@ -1,12 +1,18 @@
 SE_Day1_Assignment
 
 Part 1: Introduction to Software Engineering
+
 1.Explain what software engineering is and discuss its importance in the technology industry
+
       Software Engineering is the process of designing, developing, testing, and maintaining software.
       Maintainability: It is the ability of the software to be modified, repaired, or enhanced easily with changing requirements.
   
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
+
+      Mastering process
+      Mastering communications
+      Mastering productivity
       
 
 
@@ -14,6 +20,16 @@ Part 1: Introduction to Software Engineering
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
+       
+      Planning - identify the software requirement or purpose and scope.
+      Requirement analysis - identify the final user specification. 
+      Design - building the framework. 
+      Coding - converting software design into tangible code.
+      Testing - examine the software for any bugs and glitches
+ 
+
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
